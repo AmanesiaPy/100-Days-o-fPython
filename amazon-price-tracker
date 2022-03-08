@@ -3,8 +3,8 @@ import lxml
 import requests
 import smtplib
 
-EMAIL = "s3xytempest@gmail.com"
-PASSWORD = "aman@2000"
+EMAIL = "*************"
+PASSWORD = "**********"
 
 price_list  = 8300
 
