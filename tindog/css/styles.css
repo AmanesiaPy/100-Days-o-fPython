@@ -1,0 +1,146 @@
+#title {
+background-color: #ff4c68;
+}
+
+.container-fluid {
+padding: 1% 15%;
+padding-bottom: 10%;
+}
+
+h1 {
+font-family: Montserrat;
+color: black;
+color: white;
+font-size: 5rem;
+line-height: 1.5;
+font-weight: 900;
+}
+
+.home-image {
+position: absolute;
+right: 20%;
+padding: 20px 0
+width: 50%;
+transform: rotate(15deg);
+}
+
+.navbar-brand {
+font-size: 2.5rem;
+}
+
+.nav-link {
+font-size: 1.5rem;
+}
+
+.btn {
+margin: 10px;
+}
+
+.row {
+margin-top: 50px;
+}
+
+#features {
+position: relative;
+top: 60%;
+padding: 7% 15%;
+text-align: center;
+background-color: #fff;
+}
+
+p {
+color: #8f8f8f;
+}
+
+.icon {
+padding: 10px 0;
+color: #ef8172;
+}
+
+h3 {
+font-size: 1.5rem;
+font-family: Montserrat;
+font-weight: 700;
+}
+
+.icon:hover {
+color: #ff4c68;
+}
+
+#testimonials {
+text-align: center;
+background-color: #ff4c68;
+color: #fff;
+}
+
+h2 {
+font-family: Montserrat;
+font-weight: 700;
+font-size: 3rem;
+margin-bottom: 3%;
+}
+
+.testimonials-image {
+width: 5%;
+border-radius: 50%;
+margin: 20px;
+}
+
+#press {
+background-color: #ff4c68;
+text-align: center;
+}
+
+.press-image {
+width: 15%;
+margin: 3%;
+}
+
+.carousel-item {
+padding: 7% 15%;
+}
+
+#pricing {
+padding: 100px;
+text-align: center;
+}
+
+.pricing-col {
+padding: 2% 3%;
+}
+
+@media (max-width: 1386px) {
+
+#title {
+text-align: center;
+}
+
+.home-image {
+position: static;
+transform: rotate(0);
+}
+
+}
+
+#cta {
+background-color: #ff4c68;
+text-align: center;
+padding: 7% 15%;
+}
+
+#cta h3 {
+font-family: Montserrat;
+color: #fff;
+font-weight: 900;
+font-size: 4rem;
+margin: 20px 5px;
+}
+
+#footer {
+text-align: center;
+padding: 7% 15%;
+}
+
+.footer-icon {
+margin: 20px; 20px;
+}
